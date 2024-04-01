@@ -2,7 +2,7 @@
 
 Valid8 is a new online service that allows users to create landing pages with email capture for their new ideas in minutes.
 
-### This is how it works:
+## How it works:
 
 1. Create a new page for your idea
 1. Add a title and description
