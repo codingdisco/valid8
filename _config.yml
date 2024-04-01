@@ -1,3 +1,4 @@
-remote_theme: pages-themes/modernist@v0.2.0
-title: Valid8 - Your one stop idea validator
-description: Valid8 is an easy to use landing page builder that serves one purpose - get your new idea validated.
+remote_theme: pages-themes/architect@v0.2.0
+title: Valid8
+description: The easyiest way to create an idea validation landing page for your next startup
+show_downloads: "false"
