@@ -1,4 +1,4 @@
-## What is this?
+## What is Valid8?
 
 Valid8 is a new online service that allows users to create a landing page for their new idea in minutes.
 
