@@ -1,6 +1,6 @@
 ## What is Valid8?
 
-Valid8 is a new online service that allows users to create landing pages with email capture for their new ideas in minutes.
+Valid8 is an online service that allows users to create landing pages with email capture for their new ideas in minutes.
 
 ## How it works:
 
