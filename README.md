@@ -22,6 +22,6 @@ With a traditional site builder it may take hours or days to set up a landing pa
 
 Valid8 isn't ready yet. So we're *validating* it! 😉
 
-If you would be interested in this service pop your email address in the form below and hit submit and we'll get in touch when it's ready!
+If you would be interested in this service pop your email address in the form below and hit submit - we'll get in touch when it's ready!
 
 <div data-tf-live="01HT8MEMBW5YGCYGFV8A7M8MM8"></div><script src="//embed.typeform.com/next/embed.js"></script>
