@@ -11,7 +11,7 @@ Create a landing page with email capture for each idea in minutes. Fill in the d
 #### Measure 📈
 The amount of people that give you their details will tell you whether your idea has potential. Once you've got enough people interested, you can build the MVP and send it to them.
 
-## Why are we doing this?
+### Why are we doing this?
 
 These days, there are many options to build landing pages but they all suppose one thing: that you want to build an entire website or e-commerce platform and, therefore, come with added cost and complexity.
 
@@ -21,7 +21,7 @@ This is where Valid8 comes in. Yes it's a landing page builder but it has one pu
 
 The flow is simple and requires very little technical ability: fill in the blanks, publish your page and you're ready to go.
 
-## Validating Valid8
+### Validating Valid8
 
 Valid8 isn't ready yet. So we're *validating* it! 😉
 
