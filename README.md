@@ -11,9 +11,11 @@ The amount of people that give you their details will tell you whether your idea
 
 ## Why are we doing this?
 
-These days, there are many options to build landing pages but they all suppose one thing - that you'll want to build an entire website or e-commerce platform eventually and therefore come with an added cost and complexity to set up. It may take hours or days to set up a landing page with email capture depending on your technical ability.
+These days, there are many options to build landing pages but they all suppose one thing: that you want to build an entire website or e-commerce platform and, therefore, come with added cost and complexity. With a traditional site builder it may take hours or days to set up a landing page and email capture depending on your technical ability.
 
-This is where Valid8 comes in - yes it's a landing page builder but with one purpose - to validate your idea. The flow is simple and requires very little technical ability. Simply fill in the blanks, publish your page and you're ready to go.
+This is where Valid8 comes in. Yes it's a landing page builder but it has one purpose - **to validate your idea**.
+
+The flow is simple and requires very little technical ability: fill in the blanks, publish your page and you're ready to go.
 
 **Don't spend more time than you need to on your next big idea until you know it's going somewhere!**
 
