@@ -1,7 +1,3 @@
-## What is Valid8?
-
-Valid8 is an online service that helps you see if your next idea is worth pursuing.
-
 ### How does it work?
 
 #### 👉 Create
