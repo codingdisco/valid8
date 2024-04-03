@@ -4,11 +4,11 @@ Valid8 is an online service that helps you see if your next idea is worth pursui
 
 ### How does it work?
 
-#### Create ✨
+#### 👉 Create
 
 Create a landing page with email capture for each idea in minutes. Fill in the details of your idea, hit "Publish" and you're ready to share it with the world and get responses.
 
-#### Measure 📈
+#### 👉 Measure
 The amount of people that give you their details will tell you whether your idea has potential. Once you've got enough people interested, you can build the MVP and send it to them.
 
 ### Why are we doing this?
